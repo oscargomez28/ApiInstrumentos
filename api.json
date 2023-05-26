@@ -1,0 +1,132 @@
+{
+
+  "status": "ok",
+  "totalResults": 94,
+  
+  "articles": [
+      
+     
+      {
+          
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "María Herrera Duque",
+          "title": "Moderando...",
+          "description": "El índice de precios al consumidor aumentó un 4,9% respecto al año anterior",
+          "url": "https://www.wsj.com/articles/us-inflation-april-2023-consumer-price-index-48f0eac5",
+          "urlToImage": "https://images.wsj.net/im-778722/social",
+          "publishedAt": "2023-05-10T13:00:04Z",
+          "content": "El informe del IPC muestra que la inflación disminuyó en abril La inflación está disminuyendo lentamente, pero aún está lejos del objetivo del 2% de la Reserva Federal. Nick Timiraos de WSJ explica cómo el 2% se convirtió en el punto óptimo del banco central...[+1041 chars]"
+      },
+      {
+          
+          "source": {
+              "id": "ABC",
+              "name": "ABC"
+          },
+          "author": "Juan Manuel Castaño ",
+          "title": "'Deja de imprimir dinero. Cómo resolverían los votantes el estancamiento del techo de la deuda...",
+          "description": "Casi la mitad de los estadounidenses se oponen a aumentar el límite de endeudamiento, según una nueva encuesta del ABC",
+          "url": "https://www.wsj.com/articles/stop-printing-money-how-voters-would-solve-the-debt-ceiling-standoff-96e36a03",
+          "urlToImage": "https://images.wsj.net/im-779052/social",
+          "publishedAt": "2023-05-10T12:00:04Z",
+          "content": "‘Deje de imprimir dinero’. Cómo resolverían los votantes el estancamiento del techo de la deudaMientras los demócratas y los republicanos debaten sobre el aumento del techo de la deuda, ambos están de acuerdo en que un incumplimiento sería desastroso para la economía…[+1220 chars]"
+      },
+      
+      {
+          
+          "source": {
+              "id": "El País",
+              "name": "El País"
+          },
+          "author": "wsj",
+          "title": "Los demócratas intensifican el escrutinio de los obsequios al juez Thomas...       ",
+          "description": "Dos comités del Senado buscan una contabilidad detallada de las transacciones.",
+          "url": "https://www.wsj.com/articles/harlan-crows-gifts-business-ties-with-justice-thomas-under-fresh-scrutiny-by-democrats-dd05661e",
+          "urlToImage": "https://images.wsj.net/im-778599/social",
+          "publishedAt": "2023-05-09T21:00:04Z",
+          "content": "Los regalos de Harlan Crow y los lazos financieros con el juez Thomas bajo nuevo escrutinio de los demócratas\r\nWASHINGTON—Los demócratas del Senado están intensificando su escrutinio de la relación del multimillonario Harlan Crow con Jus…"
+      },
+      
+      {
+          
+          "source": {
+              "id": "El mundo",
+              "name": "El mundo"
+          },
+          "author": "Juan Manuel Castaño",
+          "title": "Las mentiras que nos decimos sobre la multitarea...",
+          "description": "Nuestros cerebros no están conectados para hacer malabarismos con las tareas",
+          "url": "https://www.wsj.com/articles/the-lies-we-tell-ourselves-about-multitasking-47938445",
+          "urlToImage": "https://images.wsj.net/im-776084/social",
+          "publishedAt": "2023-05-08T11:00:04Z",
+          "content": "Las mentiras que nos decimos sobre la multitarea Alison Cate caminaba en la caminadora mientras tecleaba en su computadora portátil y se tomaba una selfie. Hasta que no lo fue. Su pie resbaló. Su tobillo rodó."
+      },
+      
+      {
+          
+          "source": {
+              "id": "Prensaescrita",
+              "name": "Prensaescrita"
+          },
+          "author": "Manuel Turizo García",
+          "title": "Dar propina en el autopago hace que los clientes lloren 'chantaje emocional'...",
+          "description": "Los consumidores que ya están molestos por los precios más altos se preguntan a dónde va el dinero cuando la interacción con un empleado es inexistente.",
+          "url": "https://www.wsj.com/articles/tipping-self-checkout-restaurants-airports-c3e09f7",
+          "urlToImage": "https://images.wsj.net/im-775177/social",
+          "publishedAt": "2023-05-08T11:00:04Z",
+          "content": "Dar propina en el Self-Checkout hace que los clientes lloren 'chantaje emocional'\r\nLa interacción cero con los empleados durante una transacción ya no garantiza la libertad del dilema moral de cuánto dar propina.Promp..."
+      },
+      
+      {
+          
+          "source": {
+              "id": "El Español",
+              "name": "El Español"
+          },
+          "author": "Luis Cárdenas Muriel",
+          "title": "Occidente mira a China para poner fin a la guerra de Ucrania...",
+          "description": "Se considera que una esperada ofensiva de Ucrania allana el camino para las negociaciones con Rusia",
+          "url": "https://www.wsj.com/articles/u-s-and-allies-look-at-potential-china-role-in-ending-ukraine-war-2d6cbb4d",
+          "urlToImage": "https://images.wsj.net/im-777353/social",
+          "publishedAt": "2023-05-07T13:00:05Z",
+          "content": "EE. UU. y sus aliados analizan el posible papel de China en el fin de la guerra de Ucrania"
+      },
+      
+      {
+          
+          "source": {
+              "id": "EuropaPress",
+              "name": "EuropaPress"
+          },
+          "author": "Antonio Serrano Gómez",
+          "title": "¿Puede la bandera del estado estar demasiado 'despertada'? Los habitantes de Utah lo dicen...",
+          "description": "El gobernador Spencer Cox pensó que un rediseño de la bandera estatal uniría a la gente. 'Debería haber sabido mejor.’",
+          "url": "https://www.wsj.com/articles/utah-new-flag-design-beehive-f18e5712",
+          "urlToImage": "https://images.wsj.net/im-776077/social",
+          "publishedAt": "2023-05-07T12:00:04Z",
+          "content": "¿Puede la bandera de un estado estar demasiado despierta? Algunos habitantes de Utah dicen que la bandera del estado de SoUtah siempre ha tenido una colmena, un símbolo que los primeros mormones usaban para que todos trabajaran juntos. Cuando el estado se movio para adoptar una nueva fl..."
+      },
+      
+      {
+          
+          "source": {
+              "id": "La Razón",
+              "name": "La Razón"
+          },
+          "author": "Cameron Stevenson",
+          "title": "California insiste en desperdiciar su escaso suministro de agua",
+          "description": "Recolectar su abundante escorrentía de tormentas le permitiría al estado dejar en paz al río Colorado.",
+          "url": "https://www.wsj.com/articles/radical-environmentalists-insist-on-wasting-california-water0colorado-river-flood-delta-infrastructure-climate-activism-ba485028",
+          "urlToImage": "https://images.wsj.net/im-776001/social",
+          "publishedAt": "2023-05-06T23:01:00Z",
+          "content": "Con los dos embalses más grandes de la nación, el lago Powell y el lago Mead, reducidos a mínimos históricos, los siete estados que usan agua del río Colorado no han logrado ponerse de acuerdo sobre cómo adaptarse a su dw... "
+      }
+      
+      
+     
+  ]
+
+}
