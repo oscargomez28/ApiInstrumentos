@@ -1,0 +1,133 @@
+{
+
+  "status": "ok",
+  "totalResults": 94,
+  
+  "articles": [
+      
+     
+      {
+          
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "wsj",
+          "title": "Moderating...",
+          "description": "Consumer-price index rose 4.9% from year earlier",
+          "url": "https://www.wsj.com/articles/us-inflation-april-2023-consumer-price-index-48f0eac5",
+          "urlToImage": "https://images.wsj.net/im-778722/social",
+          "publishedAt": "2023-05-10T13:00:04Z",
+          "content": "CPI Report Shows Inflation Eased in AprilInflation is slowly easing, but it’s still far from the Federal Reserve’s 2% target. WSJ’s Nick Timiraos explains how 2% became the central bank’s sweet spot … [+1041 chars]"
+      },
+      
+      {
+          
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "wsj",
+          "title": "'Stop Printing Money.' How Voters Would Solve Debt-Ceiling Standoff...",
+          "description": "Nearly half of Americans oppose raising the borrowing limit, a new Wall Street Journal poll finds",
+          "url": "https://www.wsj.com/articles/stop-printing-money-how-voters-would-solve-the-debt-ceiling-standoff-96e36a03",
+          "urlToImage": "https://images.wsj.net/im-779052/social",
+          "publishedAt": "2023-05-10T12:00:04Z",
+          "content": "‘Stop Printing Money.’ How Voters Would Solve the Debt-Ceiling StandoffAs Democrats and Republicans debate raising the debt ceiling, they both agree that a default would be disastrous for the economy… [+1220 chars]"
+      },
+      
+      {
+          
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "wsj",
+          "title": "Dems Step Up Scrutiny of Gifts to Justice Thomas...",
+          "description": "Two Senate committees are seeking detailed accounting of the transactions",
+          "url": "https://www.wsj.com/articles/harlan-crows-gifts-business-ties-with-justice-thomas-under-fresh-scrutiny-by-democrats-dd05661e",
+          "urlToImage": "https://images.wsj.net/im-778599/social",
+          "publishedAt": "2023-05-09T21:00:04Z",
+          "content": "Harlan Crow’s Gifts, Financial Ties With Justice Thomas Under Fresh Scrutiny by Democrats\r\nWASHINGTON—Senate Democrats are ramping up their scrutiny of billionaire Harlan Crow’s relationship with Jus… [+1238 chars]"
+      },
+      
+      {
+          
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "wsj",
+          "title": "The Lies We Tell Ourselves About Multitasking...",
+          "description": "Our brains aren’t wired to juggle tasks",
+          "url": "https://www.wsj.com/articles/the-lies-we-tell-ourselves-about-multitasking-47938445",
+          "urlToImage": "https://images.wsj.net/im-776084/social",
+          "publishedAt": "2023-05-08T11:00:04Z",
+          "content": "The Lies We Tell Ourselves About MultitaskingAlison Cate was walking on the treadmill while tapping away on her laptop and taking a selfie. Until she wasn’t. Her foot slipped. Her ankle rolled. The d… [+730 chars]"
+      },
+      
+      {
+          
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "wsj",
+          "title": "Tipping at Self-Checkout Has Customers Crying 'Emotional Blackmail'...",
+          "description": "Consumers already bristling at higher prices question where the money goes when interaction with an employee was nonexistent",
+          "url": "https://www.wsj.com/articles/tipping-self-checkout-restaurants-airports-c3e09f7",
+          "urlToImage": "https://images.wsj.net/im-775177/social",
+          "publishedAt": "2023-05-08T11:00:04Z",
+          "content": "Tipping at Self-Checkout Has Customers Crying ‘Emotional Blackmail’\r\nZero interaction with employees during a transaction no longer guarantees freedom from the moral quandary of how much to tip.Promp… [+1048 chars]"
+      },
+      
+      {
+          
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "wsj",
+          "title": "West Looks to China to End Ukraine War...",
+          "description": "An expected offensive by Ukraine is seen as paving way for negotiations with Russia",
+          "url": "https://www.wsj.com/articles/u-s-and-allies-look-at-potential-china-role-in-ending-ukraine-war-2d6cbb4d",
+          "urlToImage": "https://images.wsj.net/im-777353/social",
+          "publishedAt": "2023-05-07T13:00:05Z",
+          "content": "U.S. and Allies Look at Potential China Role in Ending Ukraine War \r\nSome U.S. and European officials said they believe that Ukraine’s planned spring offensive could pave the way for negotiations bet… [+1140 chars]"
+      },
+      
+      {
+          
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "wsj",
+          "title": "Can State Flag Be Too 'Woke'? Utahns Say So...",
+          "description": "Gov. Spencer Cox thought a redesign of the state flag would bring people together. ‘I should have known better.’",
+          "url": "https://www.wsj.com/articles/utah-new-flag-design-beehive-f18e5712",
+          "urlToImage": "https://images.wsj.net/im-776077/social",
+          "publishedAt": "2023-05-07T12:00:04Z",
+          "content": "Can a State Flag Be Too ‘Woke’? Some Utahns Say SoUtah’s state flag has always featured a beehive, a symbol the early Mormons used for everyone working together.When the state moved to adopt a new fl… [+661 chars]"
+      },
+      
+      {
+          
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "Edward Ring",
+          "title": "California Insists on Wasting Its Scarce Water Supply",
+          "description": "Harvesting its abundant storm runoff would allow the state to leave the Colorado River alone.",
+          "url": "https://www.wsj.com/articles/radical-environmentalists-insist-on-wasting-california-water0colorado-river-flood-delta-infrastructure-climate-activism-ba485028",
+          "urlToImage": "https://images.wsj.net/im-776001/social",
+          "publishedAt": "2023-05-06T23:01:00Z",
+          "content": "With the nations two largest reservoirs, Lake Powell and Lake Mead, drawn down to historic lows, the seven states that use water from the Colorado River have failed to agree on how to adapt to its dw… [+1175 chars]"
+      }
+      
+      
+     
+  ]
+
+}
